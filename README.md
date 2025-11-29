@@ -1,1 +1,4 @@
-# CardApplication [![Build status](https://ci.appveyor.com/api/projects/status/vgi8is6t00e83be3?svg=true)](https://ci.appveyor.com/project/A-Serafimskaya/cardapplication)
+# CardApplication 
+[![Build status](https://ci.appveyor.com/api/projects/status/vgi8is6t00e83be3?svg=true)](https://ci.appveyor.com/project/A-Serafimskaya/cardapplication)
+
+[![Java CI with Gradle](https://github.com/A-Serafimskaya/CardApplication/actions/workflows/gradle.yml/badge.svg)](https://github.com/A-Serafimskaya/CardApplication/actions/workflows/gradle.yml)
